@@ -33,7 +33,7 @@ Strengthened Excel and financial analysis skills
 
 This project is created for academic purposes only and is not affiliated with or endorsed by Infosys Ltd. All data used is sourced from publicly available information.
 
-👨‍💼 Author
+👨‍💼 Prepared by
 
 Mahekkumar Ker
 
